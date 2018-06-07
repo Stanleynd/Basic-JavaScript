@@ -11,7 +11,7 @@ var returnevalue = addThree(3)
 //Output
 undefined.
 
-addThree has no return statement functiob. The function will change the global sum variable but the returned 
+addThree has no return statement function. The function will change the global sum variable but the returned 
 value of the function is undefined
 
 //TASK
